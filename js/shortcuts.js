@@ -6,7 +6,6 @@ export default [
       Github: "https://github.com",
       AWS: "https://aws.amazon.com",
       "Dev.to": "https://dev.to",
-      Firebase: "https://console.firebase.google.com/u/0",
     },
   },
   {
@@ -14,8 +13,8 @@ export default [
     color: "red",
     items: {
       Outlook: "https://outlook.office365.com/mail/inbox",
-      Canvas: "https://sit.instructure.com",
-      MyStevens: "https://login.stevens.edu/app/UserHome",
+      Canva: "https://www.canva.com/en_gb/",
+      Recruit: "https://recruit.ulster.ac.uk/",
     },
   },
   {
@@ -24,21 +23,16 @@ export default [
     items: {
       Linkedin: "https://linkedin.com",
       Twitter: "https://twitter.com",
-      Leetcode: "https://leetcode.com",
       Handshake: "https://app.joinhandshake.com/stu/postings",
-      Indeed: "https://www.indeed.com/",
     },
   },
   {
     category: "Misc",
     color: "purple",
     items: {
-      Trakt: "https://trakt.tv/users/peterrauscher/lists",
+      Amazon: "https://www.amazon.co.uk",
       YouTube: "https://www.youtube.com/",
-      Fmovies: "https://fmovies.to/home",
-      Zoro: "https://zoro.to",
-      TempMail: "https://tempmail.email/",
-      // IPTorrents: "https://iptorrents.com/t",
+      Facebook: "https://www.facebook.com/",
     },
   },
 ];
