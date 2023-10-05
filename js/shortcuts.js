@@ -5,6 +5,7 @@ export default [
     items: {
       Github: "https://github.com",
       AWS: "https://aws.amazon.com",
+      Azure: "https://portal.azure.com/#home",
     },
   },
   {
